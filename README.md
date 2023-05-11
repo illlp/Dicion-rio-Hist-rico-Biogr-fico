@@ -16,10 +16,8 @@ A coordenação geral científica e executiva do *Dicionário* estará a cargo d
 - José Luís Cardoso, Presidente da ACL
 - Henrique Leitão, Diretor da Biblioteca da ACL
 - José Augusto de Sottomayor-Pizarro, Diretor do Arquivo Histórico da ACL (e autor de uma primeira proposta de *Dicionário* apresentada à Presidência da ACL em 2020).
-A direção executiva do projeto será da responsabilidade do Doutor José Alberto Silva, conhecedor dos acervos à guarda da Biblioteca e Arquivo Histórico da ACL, que neles tem trabalhado de forma sistemática nos últimos anos no âmbito das suas pesquisas para doutoramento e pós-doutoramento. Será assessorado por um bolseiro de investigação (enquadrado no regime de bolsas da ACL aprovado pela FCT) a contratar para o efeito.
-A especificação das tarefas e do cronograma das atividades a desenvolver pelo diretor executivo e bolseiro do projeto será feita oportunamente, tendo em vista a sua apreciação
-pelo Conselho Científico da ACL.
-Na pesquisa preliminar, com base nos registos do Arquivo Histórico da ACL e documentação impressa existente na Biblioteca da ACL, colaborará a equipa técnica de
-documentalistas que integram a ACL, sem custos adicionais para o projeto.
-Para a redação das entradas temáticas e das entradas mais extensas e analíticas, dedicadas aos nomes mais relevantes da ACL e aos seus núcleos institucionais, serão convidados especialistas da respetiva área de conhecimento, sejam ou não membros da ACL. Esta colaboração não envolverá quaisquer custos a serem suportados pelo orçamento deste projeto.
+A direção executiva do projeto será da responsabilidade do Doutor José Alberto Silva, conhecedor dos acervos à guarda da Biblioteca e Arquivo Histórico da ACL, que neles tem trabalhado de forma sistemática nos últimos anos no âmbito das suas pesquisas para doutoramento e pós-doutoramento. Será assessorado por um bolseiro de investigação (enquadrado no regime de bolsas da ACL aprovado pela FCT) contratado para o efeito.
+Na pesquisa preliminar, com base nos registos do Arquivo Histórico da ACL e documentação impressa existente na Biblioteca da ACL, colaborará a equipa técnica de documentalistas que integram a ACL, sem custos adicionais para o projeto.
+Para a redação das entradas temáticas e das entradas mais extensas e analíticas, dedicadas aos nomes mais relevantes da ACL e aos seus núcleos institucionais, serão convidados especialistas da respetiva área de conhecimento, sejam ou não membros da ACL.
+Esta colaboração não envolverá quaisquer custos a serem suportados pelo orçamento deste projeto.
 Todos os direitos editoriais da versão digital do *Dicionário* serão da ACL. No caso de vir a ser organizada uma versão impressa do *Dicionário*, os direitos editoriais serão negociados com a empresa/entidade que tiver a seu cargo a publicação da obra.
