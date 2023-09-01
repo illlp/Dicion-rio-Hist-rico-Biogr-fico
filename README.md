@@ -22,3 +22,6 @@ Na pesquisa preliminar, com base nos registos do Arquivo Histórico da ACL e doc
 Para a redação das entradas temáticas e das entradas mais extensas e analíticas, dedicadas aos nomes mais relevantes da ACL e aos seus núcleos institucionais, serão convidados especialistas da respetiva área de conhecimento, sejam ou não membros da ACL.
 Esta colaboração não envolverá quaisquer custos a serem suportados pelo orçamento deste projeto.
 Todos os direitos editoriais da versão digital do *Dicionário* serão da ACL. No caso de vir a ser organizada uma versão impressa do *Dicionário*, os direitos editoriais serão negociados com a empresa/entidade que tiver a seu cargo a publicação da obra.
+
+### Edição digital
+A edição digital do *Dicionário Histórico-Biográfico* da Academia das Ciências de Lisboa (DHB-ACL) é assegurada pela ferramenta LeXmart (Simões & Salgado).
